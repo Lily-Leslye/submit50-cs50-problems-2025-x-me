@@ -1,0 +1,14 @@
+sort1 uses: Bubble
+
+How do you know?: It took more time than all of the others to sort the numbers, bubble sort is slow because 
+it moves the higher values to the right and lower values to the left, so it takes a lot of time to solve all.
+
+sort2 uses: Merge
+
+How do you know?: It took less time than all of the other two, merge sort is faster because it sort smaller 
+values, sort them and merge them back together in sorted order.
+
+sort3 uses: Selection
+
+How do you know?: It's not slow but not fast, selection sort finds the smallest unsorted value and add it to
+the end, and keeps doing it until it's all sorted.
